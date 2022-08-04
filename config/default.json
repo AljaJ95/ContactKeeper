@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Pici123:pici123@contactkeepercluster.t4isp.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
